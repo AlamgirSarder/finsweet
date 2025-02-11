@@ -1,0 +1,207 @@
+
+/* ==READFAQ START== */
+
+#readfaq{
+    padding-top: 220px;
+    padding-bottom: 128px;
+}
+
+#readfaq .text_top h3{
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.8);
+    line-height: 36px;
+    margin-bottom: 12px;
+}
+#readfaq .text_top h2{
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    font-weight: 600;
+    color:#282938;
+    line-height: 64px;
+   
+    width: 646px;
+    margin-bottom: 16px;
+}
+
+
+
+#readfaq .text_top p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    width: 817px;
+    margin-bottom: 48px;
+
+
+}
+
+.read_faq_img img{
+    width: 100%;
+}
+
+.client_part{
+    margin-top: 48px;
+    border-bottom: 1px solid rgba(40, 41, 56,0.5);
+    padding-bottom: 20px;
+}
+.client_part .client_one p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(40, 41, 56,0.8);
+    line-height: 28px;
+}
+.client_part .client_one h3{
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    font-weight: 500;
+    color:#282938;
+    line-height: 36px;
+}
+
+
+
+
+.about_project h2{
+    font-family: "Poppins", serif;
+    font-size: 38px;
+    font-weight: 600;
+    color:#282938;
+    line-height: 56px;
+    margin-top: 96px;
+}
+.about_project p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(40, 41, 56,0.7);
+    line-height: 28px;
+    margin-top: 12px;
+}
+
+
+.about_project ul{
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}
+.about_project ul li{
+ list-style-type: disc;
+}
+.about_project ul li a{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(40, 41, 56,0.7);
+    line-height: 28px;
+    margin-top: 16px;
+  
+}
+.about_project_img{
+    margin-top:64px;
+}
+.about_project_img img{
+    width: 100%;
+}
+
+.about_project .how{
+    font-family: "Poppins", serif;
+    font-size: 38px;
+    font-weight: 600;
+    color:#282938;
+    line-height: 56px;
+    margin-top: 64px;
+}
+
+.keywords ul{
+    margin: 0;
+    padding: 0;
+    padding: 24px 0;
+    border-top: 1px solid rgba(40, 41, 56,0.3);
+    border-bottom: 1px solid rgba(40, 41, 56,0.3);
+    margin-top: 112px;
+}
+
+.keywords ul li a{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color:rgba(40, 41, 56,0.7);
+    line-height: 32px;
+    transition:  all linear 0.5s;
+
+  
+}
+.keywords ul li:hover a{
+    color: #2405F2;
+
+
+  
+}
+.keywords ul .active a{
+    color: #2405F2;
+
+
+  
+}
+
+
+
+.faq_text_bottom h2{
+
+    font-family: "Poppins", serif;
+    font-size: 54px;
+    font-weight: 600;
+    color:#232536;
+    line-height: 74px;
+ 
+    width: 753px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 128px;
+}
+
+.faq_text_bottom  p {
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    margin-bottom: 24px;
+    width: 562px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.faq_text_bottom a {
+    font-family: "Manrope", serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #1b1c2b;
+    padding: 16px 56px;
+    border-radius: 41px;
+    border: 1px solid #fcd980;
+    background-color: #fcd980;
+    transition: all linear 0.5s;
+    margin-top: 40px;
+  }
+  .faq_text_bottom a:hover {
+    border: 1px solid #000;
+    background-color: transparent;
+    color: #000;
+  }
+
+
+  .faq_text_bottom{
+    text-align: center;
+  }
+
+/* ==READFAQ END== */
+

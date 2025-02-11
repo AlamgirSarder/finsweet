@@ -1,0 +1,252 @@
+
+
+/* ==FAQBANNER START== */
+#faqbanner{
+    padding-top: 191px;
+    padding-bottom: 96px;
+    background-color: #F4F6FC;
+}
+
+#faqbanner .text_top .pone{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    text-align: center;
+   
+    margin-bottom: 4px;
+}
+
+#faqbanner .text_top .pone{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+#faqbanner .text_top h2{
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    font-weight: 600;
+    color:#232536;
+    line-height: 64px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+
+#faqbanner .text_top .ptwo{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    width: 733px;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+#faqbanner .text_top ul{
+   margin: 0;
+   padding: 0;
+   margin-top: 32px;
+}
+#faqbanner .text_top ul li{
+  margin-left: 28px;
+ 
+}
+#faqbanner .text_top ul li:first-child{
+    margin-left: 0;
+   
+  }
+#faqbanner .text_top ul li a{
+    color: #232536;
+    font-size: 20px;
+ 
+}
+
+
+
+/* ==FAQBANNER END== */
+
+
+/* ==FAQMENU START== */
+#faqmenu{
+    padding-top: 96px;
+    padding-bottom: 128px;
+}
+#faqmenu .menu_part ul{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 48px;
+}
+#faqmenu .menu_part ul li{
+margin-left: 32px;
+transition: all linear 0,5s;
+}
+
+#faqmenu .menu_part ul li a {
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 32px;
+}
+
+#faqmenu .menu_part ul li:hover a{
+  color: #2405F2;
+    }
+    
+    #faqmenu .menu_part ul .active a{
+  color:#2405F2;
+}
+
+.details h2{
+    font-family: "Poppins", serif;
+    font-size: 38px;
+    font-weight: 600;
+    color:#232536;
+    line-height: 56px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
+.details p {
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+
+.details a {
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#232536;
+    line-height: 150%;
+}
+
+
+.d_mt{
+    margin-top: 64px;
+}
+
+
+
+.faq_text_bottom h2{
+
+    font-family: "Poppins", serif;
+    font-size: 54px;
+    font-weight: 600;
+    color:#232536;
+    line-height: 74px;
+ 
+    width: 753px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 128px;
+}
+
+.faq_text_bottom  p {
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    margin-bottom: 24px;
+    width: 562px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.faq_text_bottom a {
+    font-family: "Manrope", serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #1b1c2b;
+    padding: 16px 56px;
+    border-radius: 41px;
+    border: 1px solid #fcd980;
+    background-color: #fcd980;
+    transition: all linear 0.5s;
+    margin-top: 40px;
+  }
+  .faq_text_bottom a:hover {
+    border: 1px solid #000;
+    background-color: transparent;
+    color: #000;
+  }
+
+
+  .faq_text_bottom{
+    text-align: center;
+  }
+
+
+
+/* ==FAQMENU END== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bannerpart{
+    padding-top: 220px;
+}
+#bannerpart .text_top h2{
+    font-family: "Sen", serif;
+    font-size: 48px;
+    font-weight: 700;
+    color:#232536;
+    line-height: 64px;
+    width: 802px;
+    letter-spacing: -2.5px;
+    text-align: center;
+    margin: auto;
+
+}
+#bannerpart .text_top p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:#232536;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 32px;
+
+
+}
+
+
+#bannerpart .img_part img{
+    width: 100%;
+}
+
+
+/* ==BANNER END== */
