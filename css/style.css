@@ -522,6 +522,9 @@ p {
   color: #282938;
 }
 
+.accordion-button:focus{
+  box-shadow: none;
+}
 .accordion-body {
   font-family: "Poppins", serif;
   font-size: 18px;
