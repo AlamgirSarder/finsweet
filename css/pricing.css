@@ -1,0 +1,230 @@
+
+/* ==PRICING START== */
+#pricing {
+  padding: 128px 0;
+}
+
+#pricing .pricing_top h2 {
+  font-family: "Poppins", serif;
+  font-size: 48px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 64px;
+  text-align: center;
+  margin-bottom: 16px;
+}
+#pricing .pricing_top p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 562px;
+  margin: 0 auto;
+  margin-bottom: 64px;
+}
+
+#pricing .pricing_card {
+  background-color: #f4f6fc;
+  padding-top: 64px;
+  padding-bottom: 62px;
+  border-radius: 12px;
+  transition: all linear 0.5s;
+  height: 745px;
+}
+#pricing .pricing_card:hover {
+  background: url("../images/pricing_banner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  /* background-color: #1C1E53; */
+}
+
+#pricing .pricing_card:hover .dollar h2 {
+  color: #ffffff;
+}
+#pricing .pricing_card:hover .dollar a {
+  color: #fcd980;
+}
+#pricing .pricing_card:hover h3 {
+  color: #ffffff;
+}
+#pricing .pricing_card:hover p {
+  color: #ffffff;
+}
+#pricing .pricing_card:hover .pricing_btn {
+  background-color: #fcd980;
+  color: #282938;
+  border: 1px solid #fcd980;
+}
+
+#pricing .pricing_card:hover ul li a {
+  color: #ffffff;
+}
+
+
+#pricing .pricing_card ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 48px;
+}
+#pricing .pricing_card .dollar h2 {
+  font-family: "Poppins", serif;
+  font-size: 38px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 56px;
+  padding-left: 48px;
+}
+#pricing .pricing_card .dollar a {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2405f2;
+  line-height: 28px;
+  margin-left: 10px;
+}
+
+#pricing .pricing_card h3 {
+  font-family: "Poppins", serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 36px;
+  margin-top: 20px;
+  padding-left: 48px;
+}
+#pricing .pricing_card p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 315px;
+  margin-top: 8px;
+  padding-left: 48px;
+}
+#pricing .pricing_card ul li a {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #282938;
+  line-height: 28px;
+  margin-top: 20px;
+}
+#pricing .pricing_card ul li:first-child a {
+  margin-top: 0;
+}
+
+.first_p {
+  margin-bottom: 78px;
+}
+
+.second_p {
+  margin-bottom: 50px;
+}
+
+.thrid_p {
+  margin-bottom: 44px;
+}
+
+#pricing .pricing_card ul li a img {
+  margin-right: 12px;
+}
+#pricing .pricing_card .pricing_btn {
+  padding: 16px 78px;
+  background-color: #282938;
+  font-family: "Manrope", serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #f4f6fc;
+  line-height: 32px;
+  border-radius: 41px;
+  margin: 0 auto;
+  border: 1px solid #282938;
+}
+
+.pricing_btn_part {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.last_btn {
+  margin-top: 63px;
+}
+
+
+
+
+#pricing .pricing_card ul li .pricing_li{
+  color: rgba(40, 41, 56,0.7);
+}
+/* ==PRICING END== */
+
+/* ==FAQ START== */
+#faq {
+  padding-bottom: 128px;
+}
+
+#faq .faq_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  color: #282938;
+}
+#faq .faq_left a {
+  font-family: "Poppins", serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  color: rgba(36, 5, 242, 0.87);
+  margin-top: 16px;
+}
+#faq .faq_left h2 span {
+  display: block;
+}
+
+.count {
+  font-family: "Poppins", serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  color: #2405f2;
+  width: 80px;
+}
+
+.accordion-button {
+  font-family: "Poppins", serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  color: #282938;
+}
+
+.accordion-body {
+  font-family: "Poppins", serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  color: rgba(40, 41, 56, 0.87);
+  width: 624px;
+  margin-left: 84px;
+}
+
+.accordion-button::after {
+  background-image: url("../images/plus.png");
+}
+
+.accordion-button:not(.collapsed)::after {
+  background-image: url("../images/minus.png");
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+  box-shadow: 0;
+}
+
+/* ==FAQ END== */

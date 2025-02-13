@@ -1,0 +1,336 @@
+
+/* ==BANNER START== */
+#banner {
+  padding-top: 218px;
+  padding-bottom: 128px;
+  background-color: #1c1e53;
+}
+
+#banner .banner_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 54px;
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 74px;
+  width: 468px;
+}
+#banner .banner_left p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 28px;
+  width: 562px;
+  margin-top: 24px;
+}
+#banner .banner_btn {
+  font-family: "Manrope", serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 32px;
+  color: #1b1c2b;
+  padding: 16px 56px;
+  border-radius: 41px;
+  border: 1px solid #fcd980;
+  background-color: #fcd980;
+  transition: all linear 0.5s;
+  margin-top: 48px;
+}
+#banner .banner_btn:hover {
+  border: 1px solid rgba(244, 246, 252, 0.2);
+  background-color: transparent;
+  color: #ffffff;
+}
+
+#banner .banner_left a {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #ffffff;
+  margin-left: 40px;
+}
+#banner .banner_left a span {
+  margin-left: 10px;
+}
+
+/* ==BANNER END== */
+
+/* ==BENEFIT START== */
+#benefit {
+  padding: 96px 0;
+}
+
+.finsweet_user h2 {
+  font-family: "Poppins", serif;
+  font-size: 38px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 56px;
+}
+.finsweet_user p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+}
+
+#benefit .text_top h2 {
+  font-family: "Poppins", serif;
+  font-size: 48px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 64px;
+  width: 630px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+#benefit .cardone {
+  background-color: #f4f6fc;
+  padding-top: 50px;
+  padding-left: 48px;
+  padding-right: 32px;
+  padding-bottom: 48px;
+  height: 316px;
+}
+
+#benefit .cardone h2 {
+  font-family: "Poppins", serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 36px;
+  margin-bottom: 12px;
+  margin-top: 26px;
+}
+
+#benefit .cardone p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 324px;
+}
+.text_top {
+  margin-top: 96px;
+}
+
+/* ==BENEFIT END== */
+
+/* ==INSPIRE START== */
+#inspire {
+  padding-bottom: 96px;
+}
+#inspire .inspire_left h3 {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 28px;
+}
+#inspire .inspire_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 36px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 56px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#inspire .inspire_left h2 span {
+  display: block;
+}
+
+#inspire .inspire_left p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 623px;
+}
+
+/* ==INSPIRE END== */
+
+/* ==FREE START== */
+#free {
+  padding: 128px 0;
+  background-color: #f4f6fc;
+}
+#free .free_left h3 {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 28px;
+}
+#free .free_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 36px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 56px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 624px;
+}
+
+#free .free_left h2 span {
+  display: block;
+}
+
+#free .free_left p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 623px;
+}
+
+/* ==FREE END== */
+
+/* ==24SUPPORT START== */
+#support {
+  padding: 128px 0;
+}
+#support .support_left h3 {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 28px;
+}
+#support .support_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 36px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 56px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#support .support_left h2 span {
+  display: block;
+}
+
+#support .support_left p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 623px;
+}
+
+/* ==24SUPPORT END== */
+
+/* ==QUICK START== */
+#quick {
+  padding: 128px 0;
+  background-color: rgba(252, 217, 128, 0.1);
+}
+#quick .quick_left h3 {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #282938;
+  line-height: 28px;
+}
+#quick .quick_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 36px;
+  font-weight: 600;
+  color: #282938;
+  line-height: 56px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 624px;
+}
+
+#quick .quick_left h2 span {
+  display: block;
+}
+
+#quick .quick_left p {
+  font-family: "Poppins", serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(40, 41, 56, 0.7);
+  line-height: 28px;
+  width: 623px;
+}
+
+/* ==QUICK END== */
+
+/* ==FAQ START== */
+#faq {
+  padding: 128px 0;
+}
+
+#faq .faq_left h2 {
+  font-family: "Poppins", serif;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 56px;
+  color: #282938;
+}
+#faq .faq_left a {
+  font-family: "Poppins", serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  color: rgba(36, 5, 242, 0.87);
+  margin-top: 16px;
+}
+#faq .faq_left h2 span {
+  display: block;
+}
+
+.count {
+  font-family: "Poppins", serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  color: #2405f2;
+  width: 80px;
+}
+
+.accordion-button {
+  font-family: "Poppins", serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  color: #282938;
+}
+
+.accordion-body {
+  font-family: "Poppins", serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  color: rgba(40, 41, 56, 0.87);
+  width: 624px;
+  margin-left: 84px;
+}
+
+.accordion-button::after {
+  background-image: url("../images/plus.png");
+}
+
+.accordion-button:not(.collapsed)::after {
+  background-image: url("../images/minus.png");
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+  box-shadow: 0;
+}
+
+/* ==FAQ END== */

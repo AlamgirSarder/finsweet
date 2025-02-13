@@ -1,0 +1,127 @@
+
+
+/* ==BANNER START== */
+
+#bannerpart{
+    padding-top: 220px;
+}
+#bannerpart .text_top h2{
+    font-family: "Sen", serif;
+    font-size: 48px;
+    font-weight: 700;
+    color:#232536;
+    line-height: 64px;
+    width: 802px;
+    letter-spacing: -2.5px;
+    text-align: center;
+    margin: auto;
+
+}
+#bannerpart .text_top p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:#232536;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 32px;
+
+
+}
+
+
+#bannerpart .img_part img{
+    width: 100%;
+}
+
+#bannerpart .text_bottom p{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(35, 37, 54,0.7);
+    line-height: 28px;
+    width: 831px;
+    margin: auto;
+    margin-top: 48px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+#bannerpart .text_bottom a{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(36, 5, 242,0.7);
+    line-height: 28px;
+ 
+}
+#bannerpart .text_bottom {
+ text-align: center;
+ 
+}
+
+/* ==BANNER END== */
+
+
+/* ==BLOG START== */
+#blog{
+    padding: 128px 0;
+}
+
+#blog .blog_top h2{
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    color: #282938;
+    margin-bottom: 64px;
+    text-align: center;
+}
+#blog .blog_design h6{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    color:rgba(40, 41, 56,0.7);
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+#blog .blog_design h3{
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color:#282938;
+    margin-bottom: 16px;
+}
+
+#blog .blog_design p{
+    font-family: "Poppins", serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 28px;
+    color:rgba(40, 41, 56,0.7);
+    
+    margin-bottom: 32px;
+    width: 405px;
+}
+
+#blog .blog_design a{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    color:#282938;
+
+}
+#blog .blog_design a span{
+    margin-left: 10px;
+
+}
+
+#blog .blog_top_margin{
+margin-top: 64px;
+}
+
+/* ==BLOG END== */

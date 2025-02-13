@@ -1,0 +1,162 @@
+
+
+/* ==NAVBAR START== */
+    .navbar{
+        background-color: #1C1E53;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 9999;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        font-family: "Poppins", serif;
+        font-size: 16px;
+        font-weight: 500;
+        color:#BBBBCB;
+        margin-right: 32px;
+        line-height: 28px;
+        transition: all linear 0.5s;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover{
+      color: #ffffff;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item:last-child .nav-link{
+        margin-right: 0;
+    }
+
+    .navbar .navbar_btn{
+        font-family: "Poppins", serif;
+        font-size: 16px;
+        font-weight: 500;
+        color:#ffffff;
+        padding: 16px 48px;
+        border-radius: 41px;
+        border: 1px solid rgba(244, 246, 252,0.2);
+        background-color: transparent;
+        transition: all linear 0.5s;
+
+        
+    }
+    .navbar .navbar_btn:hover{
+        border: 1px solid #FCD980;
+        background-color: #FCD980;
+        color: #1B1C2B;
+
+        
+    }
+
+/* ==NAVBAR END== */
+
+/* ==CONTACT START== */
+#contact{
+    padding-top: 220px;
+    padding-bottom: 128px;
+}
+
+#contact .text_top{
+   text-align: center;
+}
+#contact .text_top h2{
+    font-family: "Poppins", serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    color:#282938;
+    margin-bottom: 16px;
+}
+#contact .text_top P{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color:rgba(40, 41, 56,0.7);
+    width: 562px;
+    margin: auto;
+}
+
+.form_part{
+    background-color: #F4F6FC;
+   padding: 55px 74px;
+   border-radius: 12px;
+   margin-top: 51px;
+}
+
+.form_part input{
+    padding-top: 18px;
+    padding-left: 32px;
+    padding-bottom: 18px;
+    background-color: #F4F6FC;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0,0.12);
+    width: 438px;
+
+}
+
+.input_form input::placeholder{
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000000;
+}
+.input_form {
+    display: grid;
+    grid-template-columns: repeat(2,438px);
+    justify-content: space-between;
+}
+
+.input_form label{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #000000;
+    margin-bottom: 6px;
+}
+.message{
+    height: 138px;
+    resize: none;
+    background-color: #F4F6FC;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0,0.12);
+}
+
+.smt{
+    margin-top: 24px;
+}
+
+
+
+.form_part label{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #000000;
+    margin-bottom: 6px;
+    margin-top: 24px;
+}
+.form_part button{
+   padding: 16px 64px;
+   background-color: #282938;
+   border: 1px solid #282938;
+   border-radius: 41px;
+   margin-top: 32px;
+   font-family: "Manrope", serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #F4F6FC;
+    transition: all linear 0.5s;
+}
+.form_part button:hover{
+
+   background-color: #FCD980;
+   border: 1px solid #FCD980;
+    color: #282938;
+}
+
+/* ==CONTACT END== */
+
